@@ -10,7 +10,7 @@ table.menu {
 }
 
 ul {
-    list-style-image: url('images/orange_sm.png');
+    list-style-image: url('../images/orange_sm.png');
 }
 
 h1 {
